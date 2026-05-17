@@ -1,0 +1,9 @@
+# ConversationHandler states
+ORDER_CURRENCY  = 1
+ORDER_TYPE      = 2
+ORDER_AMOUNT    = 3
+ORDER_RATE      = 4
+ORDER_PAYMENT   = 5
+ORDER_CONFIRM   = 6
+
+DISPUTE_MSG     = 10
